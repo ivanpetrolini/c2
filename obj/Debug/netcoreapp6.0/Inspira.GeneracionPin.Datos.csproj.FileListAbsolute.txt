@@ -1,0 +1,15 @@
+/home/runner/c/obj/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos.csproj.AssemblyReference.cache
+/home/runner/c/obj/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/c/obj/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos.AssemblyInfoInputs.cache
+/home/runner/c/obj/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos.AssemblyInfo.cs
+/home/runner/c/obj/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos.csproj.CoreCompileInputs.cache
+/home/runner/c/bin/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos
+/home/runner/c/bin/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos.deps.json
+/home/runner/c/bin/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos.runtimeconfig.json
+/home/runner/c/bin/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos.dll
+/home/runner/c/bin/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos.pdb
+/home/runner/c/obj/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos.dll
+/home/runner/c/obj/Debug/netcoreapp6.0/refint/Inspira.GeneracionPin.Datos.dll
+/home/runner/c/obj/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos.pdb
+/home/runner/c/obj/Debug/netcoreapp6.0/Inspira.GeneracionPin.Datos.genruntimeconfig.cache
+/home/runner/c/obj/Debug/netcoreapp6.0/ref/Inspira.GeneracionPin.Datos.dll
